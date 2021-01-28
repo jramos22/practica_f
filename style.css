@@ -1,0 +1,13 @@
+.cont-estilo{
+    background-color: cadetblue;
+    width: 500px;
+    height: 100%;
+    border: solid 1px black;
+}
+.nuevo-estilo{
+    background-color: darkseagreen;
+    color: dimgray;
+    width: 600px;
+    height: 100%;
+    border: solid 3px black;
+}
